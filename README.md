@@ -7,6 +7,7 @@ Learning Path
 1. DataBinding
    
    Materi Pertama [Setting dan One Way Data Binding](https://github.com/siubie/01-Android-MVVM-Java-DataBinding)
+   
    Materi Kedua [Two Way data Binding](https://github.com/siubie/02-Android-MVVM-Java-TwoWayDataBinding)
 2. ViewModel
 3. LiveData
