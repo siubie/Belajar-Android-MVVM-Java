@@ -6,7 +6,7 @@ Detail materi ada di dalam folder masing masing di repository
 Learning Path
 1. DataBinding
    
-   Materi Pertama [https://github.com/siubie/01-Android-MVVM-Java-DataBinding]
+   Materi Pertama [Setting dan One Way Data Binding](https://github.com/siubie/01-Android-MVVM-Java-DataBinding)
 2. ViewModel
 3. LiveData
 4. Combo DataBinding + ViewModel + LiveData
