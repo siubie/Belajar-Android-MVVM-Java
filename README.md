@@ -12,6 +12,9 @@ Learning Path
    
    Materi Ketiga [Two Way Data Binding Dengan Form](https://github.com/siubie/03-Android-MVVM-Java-TwoWayDataBinding-Form)
 2. ViewModel
+
+   Materi Pertama [Basic View Model](https://github.com/siubie/04-Android-MVVM-Java-ViewModel)
+   
 3. LiveData
 4. Combo DataBinding + ViewModel + LiveData
 5. Navigation Component
