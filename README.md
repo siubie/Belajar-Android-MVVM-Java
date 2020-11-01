@@ -1,6 +1,8 @@
 # Belajar-Android-MVVM-Java
 Repository Learning Path Belajar Android MVVM Java ( Book cooming Soon)
 
+Video Tutorial : [Playlist Video Belajar Android MVVM Java](https://www.youtube.com/playlist?list=PLgh34MxUBPkgpjEM2E0JAbeiOi8vJnvQS)
+
 Detail materi ada di dalam folder masing masing di repository
 
 Learning Path
