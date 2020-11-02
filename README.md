@@ -18,6 +18,9 @@ Learning Path
    Materi Pertama [Basic View Model](https://github.com/siubie/04-Android-MVVM-Java-ViewModel)
    
 3. LiveData
+
+   Materi Pertama [Live Data](https://github.com/siubie/05-Android-MVVM-Java-LiveData.git)
+   
 4. Combo DataBinding + ViewModel + LiveData
 5. Navigation Component
 6. RecyclerView
