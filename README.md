@@ -22,6 +22,7 @@ Learning Path
    Materi Pertama [Live Data](https://github.com/siubie/05-Android-MVVM-Java-LiveData.git)
    
 4. Combo DataBinding + ViewModel + LiveData
+   Latihan [Studi Kasus Login UI](https://github.com/siubie/View-Model-Login)
 5. Navigation Component
 6. RecyclerView
 7. Room Persistence
