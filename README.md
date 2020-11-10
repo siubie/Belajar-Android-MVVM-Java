@@ -27,6 +27,8 @@ Learning Path
    
 5. Navigation Component
 6. RecyclerView
+
+   RecyclerView [Recyclerview MVVM](https://github.com/siubie/06-Android-MVVM-Java-RecyclerView)
 7. Room Persistence
 8. Retrofit
 9. Project 1
