@@ -26,6 +26,9 @@ Learning Path
    Latihan [Studi Kasus Login UI](https://github.com/siubie/View-Model-Login)
    
 5. Navigation Component
+
+   Latihan [Navigation Component](https://github.com/siubie/Android-Navigation-Component)
+   
 6. RecyclerView
 
    RecyclerView [Recyclerview MVVM](https://github.com/siubie/06-Android-MVVM-Java-RecyclerView)
